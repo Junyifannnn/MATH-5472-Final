@@ -94,6 +94,8 @@ para = struct('N_iter',N_iter,'weight',W,'matrix',M,'k',k,'lambda',lambda,...
 % [X_ALS_Anderson, error_ALS_Anderson, Time_ALS_Anderson] = ALS_Anderson(para);
 
 %% MovieLens Data and relevant simulations %%
+
+% ----- reproduce Figure 4 of the paper ----- %
 data = importdata('ratings.dat');
 user = data(:, 1);
 movies = data(:, 3);
