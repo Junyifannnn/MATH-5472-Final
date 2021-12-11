@@ -1,6 +1,6 @@
 # MATH-5472-Final
 
-MATLAB implementation of the paper : 'Weighted Low Rank Matrix Approximation and Acceleration'.
+MATLAB implementation of the paper : 'Weighted Low Rank Matrix Approximation and Acceleration'. [this link.](https://arxiv.org/abs/2109.11057)
 
 ## Code
 
